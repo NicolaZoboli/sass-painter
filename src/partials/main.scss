@@ -1,0 +1,44 @@
+main {
+
+  .navbar-main {
+
+    height: 80px;
+    background-color: #e6e6e6;
+  }
+
+  .intro-video {
+
+    height: 900px;
+
+    // debug
+    background-color: purple;
+  }
+
+  .photo-painting {
+
+    height: 900px;
+
+    background-color: $background-primary;
+  }
+
+  .flexible {
+
+    height: 1800px;
+
+    background-color: #222222;
+  }
+
+  .tools-effect {
+
+    height: 500px;
+    background-color: $background-primary;
+  }
+
+  .explore {
+
+    height: 500px;
+    background-image: url("img/brushpacks-bg.jpg");
+    background-size: cover;
+  }
+
+}

@@ -1,0 +1,19 @@
+header {
+
+  height: 600px;
+  color: white;
+
+  .navbar-header {
+
+    height: 20%;
+    background-color: black;
+  }
+
+  .jumbo {
+
+    height: 80%;
+    background-image: url("img/jumbo.jpg");
+    background-size: cover;
+  }
+
+}
